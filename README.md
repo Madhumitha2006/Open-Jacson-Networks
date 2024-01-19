@@ -58,7 +58,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
     print("Average number of objects in the overall system    : %0.2f "%Ls)
     print("Average number of objects in the conveyor S1  :  %0.2f "%Lq1)
     print("Average number of objects in the conveyor S2  :  %0.2f "%Lq2)
-    print("Average number of objects in the conveyor S3  :  %0.2f "%Lq3)
+    print("Average number of objects in the conveyor S3  :  %0.2f "%Lq3) 
     print("Average waiting time of an object in the conveyor S1 : %0.2f secs"%Wq1)
     print("Average waiting time of an object in the conveyor S2 : %0.2f secs"%Wq2)
     print("Average waiting time of an object in the conveyor S3 : %0.2f secs"%Wq3)
